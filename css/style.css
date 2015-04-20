@@ -1,0 +1,81 @@
+
+body {
+	padding: 20px 10px;
+	font-family: Calibri;
+	max-width: 2000px;
+	margin: 0 auto; 
+	font-size: 1.2em;
+}                
+
+h1 {
+	text-align: center;
+	color: #dc143c;
+}
+
+p {
+	margin: 10px 0;
+}
+
+ul {
+	list-style-type: none; 
+}
+
+li {
+	font-size: 20px;
+	line-height: 30px; 
+}  
+.main {
+  background-color: #f5deb3;
+	border-radius: 20px;
+	color: blue;
+	padding: 15px;
+	margin: 15px auto;
+}
+
+
+.lesson {
+	background-color: #f4a460;
+	border-radius: 15px;
+	color: red;
+	padding: 12px;
+	margin: 12px auto;
+  text-align: center;
+}
+
+h2 {
+	margin: 10px;
+}
+
+.chapter {
+	background-color: #ffe4c4;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 7px;
+	color: black;
+}
+
+.chapter-title {
+	font-size: 20px;
+	margin: 15px;
+  text-align: left;
+	color: red;
+}
+
+.borut-note {
+	margin: 10px;
+  text-align: left;
+}
+
+.code {
+	font-family: Courier;
+	color : black;
+	padding-left:  4px;
+	padding-right: 4px;
+}
+
+.signature{
+  font-family:helvetica;
+  color: red;
+  font-size: 12px;
+  text-align: right;
+}
